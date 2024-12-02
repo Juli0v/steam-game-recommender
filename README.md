@@ -47,12 +47,7 @@ First you need to download all the data files from the google drive and store th
 
 1. **Open a terminal**: Navigate to the `app_ressources` folder.
 
-2. **Activate the virtual environment** (if already created):
-    ```bash
-    source venv_steam_recommender/bin/activate
-    ```
-
-3. **Launch the application**:
+2. **Launch the application**:
     ```bash
     streamlit run Steam_games_recommender.py
     ```
