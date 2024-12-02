@@ -1,9 +1,27 @@
-# steam-game-recommender
-In this repository you'll find a recommender system for videogames using a Streamlit interface. It contains data files, a .py file that run the recommender, a video demo
-The games infos and reviews have been scrapped from steams and some computation have been done before in order to have clean data inputs.
+# Steam Game Recommender
 
-## Data & demo
-Because the data files containing the differents inputs are too big, they have been uploaded to a google drive also a demo video of how the recomender works, you'll find the files in the link below : 
+Welcome to the **Steam Game Recommender** repository! This project features a recommender system for video games, accessible via a Streamlit interface. It includes:
 
-https://drive.google.com/drive/folders/1kM9fziNo1yiWSwg-EgfdKQFK_tUFeokx?usp=sharing
+- Data files
+- A Python script to run the recommender
+- A demo video showcasing the functionality
+
+Game information and reviews have been scraped from Steam, with preprocessing done to ensure clean data inputs. This project is a collaboration between a friend and myself.
+
+## Features
+
+- **Recommendation System**: Suggests games based on user preferences and data analysis.
+- **Streamlit Interface**: Intuitive web interface for users to interact with the recommender.
+- **Preprocessed Data**: Optimized and cleaned datasets for faster recommendations.
+
+## Data & Demo
+
+Due to size constraints, the data files and demo video are hosted externally. You can find:
+
+- **Data Files**: Necessary inputs for the recommender system.
+- **Demo Video**: A walkthrough of the system in action.
+
+Access them via the link below:
+
+[🔗 Google Drive - Data & Demo](https://drive.google.com/drive/folders/1kM9fziNo1yiWSwg-EgfdKQFK_tUFeokx?usp=sharing)
 
