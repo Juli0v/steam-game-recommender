@@ -2,8 +2,8 @@
 
 Welcome to the **Steam Game Recommender** repository! This project features a recommender system for video games, accessible via a Streamlit interface. It includes:
 
-- Data files
-- A Python script to run the recommender
+- A link to the input data files
+- The app_ressources folder containing the .py script to run the recommender, the requirements, and a venv to run the application
 - A demo video showcasing the functionality
 
 Game information and reviews have been scraped from Steam, with preprocessing done to ensure clean data inputs. This project is a collaboration between a friend and myself.
@@ -33,7 +33,7 @@ Access them via the link below:
 
 ## Installation
 
-First you need to download all the data files from the google drive and store them into a "data" folder, then you could launch the application using the methods below
+First you need to download all the data files from the google drive and store them into a "data" folder inside the "app_ressoruces" folder, then you could launch the application using the methods below
 
 ### Option 1: Running via the Bash Script
 
